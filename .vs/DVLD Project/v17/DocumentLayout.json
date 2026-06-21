@@ -1,0 +1,1446 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\DVLD Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|d:\\projects\\dvld project\\dvld project\\frmupdatetesttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmupdatetesttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmupdatetesttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmupdatetesttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmupdateapplicationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmupdateapplicationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmupdateapplicationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmupdateapplicationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmtesttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmtesttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmtesttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmtesttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmshowusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmshowusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmshowusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmshowusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmshowpeoples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmshowpeoples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmshowpeoples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmshowpeoples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmshowlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmshowlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmshowlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmshowlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmshowlicensehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmshowlicensehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmshowlicensehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmshowlicensehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmshowinternationallicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmshowinternationallicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmshowinternationallicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmshowinternationallicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmshowinternationallicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmshowinternationallicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmshowinternationallicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmshowinternationallicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmshowdrivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmshowdrivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmshowdrivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmshowdrivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmshowdetainedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmshowdetainedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmshowdetainedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmshowdetainedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmshowdetailsofappliction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmshowdetailsofappliction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmshowdetailsofappliction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmshowdetailsofappliction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmshowapplicationscs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmshowapplicationscs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmshowapplicationscs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmshowapplicationscs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmreplacefordamgedorlostlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmreplacefordamgedorlostlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmreplacefordamgedorlostlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmreplacefordamgedorlostlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmrenewlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmrenewlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmrenewlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmrenewlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmreleasedetainedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmreleasedetainedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmreleasedetainedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmreleasedetainedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmmanageapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmmanageapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmmanageapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmmanageapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmissueinternationallicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmissueinternationallicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmissueinternationallicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmissueinternationallicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmcurrentuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmcurrentuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmcurrentuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmcurrentuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmchangeuserpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmchangeuserpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmaddoredituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmaddoredituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmaddoredituser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmaddoredituser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmappointmenttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmappointmenttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmappointmenttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmappointmenttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmaddlocallicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmaddlocallicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmaddlocallicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmaddlocallicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F25979-6A03-46AE-ABAA-580D0A2BF512}|BusinLayer\\BusinLayer.csproj|D:\\Projects\\DVLD Project\\businlayer\\licenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F25979-6A03-46AE-ABAA-580D0A2BF512}|BusinLayer\\BusinLayer.csproj|solutionrelative:businlayer\\licenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAB6231-848A-4D13-874F-D82E77FC590E}|Data Layer\\Data Layer.csproj|D:\\Projects\\DVLD Project\\data layer\\dealwithlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAB6231-848A-4D13-874F-D82E77FC590E}|Data Layer\\Data Layer.csproj|solutionrelative:data layer\\dealwithlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F25979-6A03-46AE-ABAA-580D0A2BF512}|BusinLayer\\BusinLayer.csproj|D:\\Projects\\DVLD Project\\businlayer\\drivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F25979-6A03-46AE-ABAA-580D0A2BF512}|BusinLayer\\BusinLayer.csproj|solutionrelative:businlayer\\drivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAB6231-848A-4D13-874F-D82E77FC590E}|Data Layer\\Data Layer.csproj|D:\\Projects\\DVLD Project\\data layer\\dealwithdrivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAB6231-848A-4D13-874F-D82E77FC590E}|Data Layer\\Data Layer.csproj|solutionrelative:data layer\\dealwithdrivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAB6231-848A-4D13-874F-D82E77FC590E}|Data Layer\\Data Layer.csproj|D:\\Projects\\DVLD Project\\data layer\\dealwithapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAB6231-848A-4D13-874F-D82E77FC590E}|Data Layer\\Data Layer.csproj|solutionrelative:data layer\\dealwithapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F25979-6A03-46AE-ABAA-580D0A2BF512}|BusinLayer\\BusinLayer.csproj|D:\\Projects\\DVLD Project\\businlayer\\applications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F25979-6A03-46AE-ABAA-580D0A2BF512}|BusinLayer\\BusinLayer.csproj|solutionrelative:businlayer\\applications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\detainlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\detainlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\detainlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\detainlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\addanddelete_person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\addanddelete_person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\ctrperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\ctrperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\ctrperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\ctrperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\ctrdriverlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\ctrdriverlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\ctrdriverlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\ctrdriverlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\issuedrivinglicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\issuedrivinglicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\issuedrivinglicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\issuedrivinglicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F25979-6A03-46AE-ABAA-580D0A2BF512}|BusinLayer\\BusinLayer.csproj|D:\\Projects\\DVLD Project\\businlayer\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F25979-6A03-46AE-ABAA-580D0A2BF512}|BusinLayer\\BusinLayer.csproj|solutionrelative:businlayer\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAB6231-848A-4D13-874F-D82E77FC590E}|Data Layer\\Data Layer.csproj|D:\\Projects\\DVLD Project\\data layer\\dealwithpeoples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAB6231-848A-4D13-874F-D82E77FC590E}|Data Layer\\Data Layer.csproj|solutionrelative:data layer\\dealwithpeoples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmrenewlicense.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmrenewlicense.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmaddoredituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmaddoredituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmshowinternationallicenses.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmshowinternationallicenses.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAB6231-848A-4D13-874F-D82E77FC590E}|Data Layer\\Data Layer.csproj|D:\\Projects\\DVLD Project\\data layer\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAB6231-848A-4D13-874F-D82E77FC590E}|Data Layer\\Data Layer.csproj|solutionrelative:data layer\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\ctrlicenseapplicationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\ctrlicenseapplicationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\addanddelete_person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\addanddelete_person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAB6231-848A-4D13-874F-D82E77FC590E}|Data Layer\\Data Layer.csproj|D:\\Projects\\DVLD Project\\data layer\\dealwithusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAB6231-848A-4D13-874F-D82E77FC590E}|Data Layer\\Data Layer.csproj|solutionrelative:data layer\\dealwithusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F25979-6A03-46AE-ABAA-580D0A2BF512}|BusinLayer\\BusinLayer.csproj|D:\\Projects\\DVLD Project\\businlayer\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F25979-6A03-46AE-ABAA-580D0A2BF512}|BusinLayer\\BusinLayer.csproj|solutionrelative:businlayer\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\ctrlicenseapplicationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\ctrlicenseapplicationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAB6231-848A-4D13-874F-D82E77FC590E}|Data Layer\\Data Layer.csproj|D:\\Projects\\DVLD Project\\data layer\\dealwithcountries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAB6231-848A-4D13-874F-D82E77FC590E}|Data Layer\\Data Layer.csproj|solutionrelative:data layer\\dealwithcountries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAB6231-848A-4D13-874F-D82E77FC590E}|Data Layer\\Data Layer.csproj|D:\\Projects\\DVLD Project\\data layer\\dealwithtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAB6231-848A-4D13-874F-D82E77FC590E}|Data Layer\\Data Layer.csproj|solutionrelative:data layer\\dealwithtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F25979-6A03-46AE-ABAA-580D0A2BF512}|BusinLayer\\BusinLayer.csproj|D:\\Projects\\DVLD Project\\businlayer\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F25979-6A03-46AE-ABAA-580D0A2BF512}|BusinLayer\\BusinLayer.csproj|solutionrelative:businlayer\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\addoreditordeleteorretaketest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\addoreditordeleteorretaketest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\addoreditordeleteorretaketest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\addoreditordeleteorretaketest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmappointmenttest.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmappointmenttest.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmappointmenttest.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmappointmenttest.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\ctrpersonwithsearchbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\ctrpersonwithsearchbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\ctruserrcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\ctruserrcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmaddlocallicense.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmaddlocallicense.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\ctrpersonwithsearchbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\ctrpersonwithsearchbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAB6231-848A-4D13-874F-D82E77FC590E}|Data Layer\\Data Layer.csproj|D:\\Projects\\DVLD Project\\data layer\\dealwithtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAB6231-848A-4D13-874F-D82E77FC590E}|Data Layer\\Data Layer.csproj|solutionrelative:data layer\\dealwithtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\frmchangeuserpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\frmchangeuserpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|D:\\Projects\\DVLD Project\\dvld project\\ctruserrcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7009456B-6A75-40A0-BE30-69868590F4FF}|DVLD Project\\DVLD Project.csproj|solutionrelative:dvld project\\ctruserrcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F25979-6A03-46AE-ABAA-580D0A2BF512}|BusinLayer\\BusinLayer.csproj|D:\\Projects\\DVLD Project\\businlayer\\countries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F25979-6A03-46AE-ABAA-580D0A2BF512}|BusinLayer\\BusinLayer.csproj|solutionrelative:businlayer\\countries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F25979-6A03-46AE-ABAA-580D0A2BF512}|BusinLayer\\BusinLayer.csproj|D:\\Projects\\DVLD Project\\businlayer\\types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F25979-6A03-46AE-ABAA-580D0A2BF512}|BusinLayer\\BusinLayer.csproj|solutionrelative:businlayer\\types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmUpdateTestType.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmUpdateTestType.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmUpdateTestType.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmUpdateTestType.cs [Design]",
+              "RelativeToolTip": "DVLD Project\\frmUpdateTestType.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:42:14.151Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmUpdateTestType.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmUpdateTestType.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmUpdateTestType.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmUpdateTestType.cs",
+              "RelativeToolTip": "DVLD Project\\frmUpdateTestType.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAwFEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:42:34.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmTestTypes.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmTestTypes.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmTestTypes.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmTestTypes.cs",
+              "RelativeToolTip": "DVLD Project\\frmTestTypes.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAwDMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:44:27.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmLogin.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmLogin.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmLogin.cs [Design]",
+              "RelativeToolTip": "DVLD Project\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:42:10.361Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmLogin.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmLogin.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmLogin.cs",
+              "RelativeToolTip": "DVLD Project\\frmLogin.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAxwE8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:44:16.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\Form1.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\Form1.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\Form1.cs",
+              "RelativeToolTip": "DVLD Project\\Form1.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAowMMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:43:59.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\Form1.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\Form1.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\Form1.cs [Design]",
+              "RelativeToolTip": "DVLD Project\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:40:29.274Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmUpdateApplicationType.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmUpdateApplicationType.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmUpdateApplicationType.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmUpdateApplicationType.cs",
+              "RelativeToolTip": "DVLD Project\\frmUpdateApplicationType.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:44:29.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmUpdateApplicationType.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmUpdateApplicationType.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmUpdateApplicationType.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmUpdateApplicationType.cs [Design]",
+              "RelativeToolTip": "DVLD Project\\frmUpdateApplicationType.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:42:13.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmTestTypes.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmTestTypes.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmTestTypes.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmTestTypes.cs [Design]",
+              "RelativeToolTip": "DVLD Project\\frmTestTypes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:42:12.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmShowUsers.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmShowUsers.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmShowUsers.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmShowUsers.cs [Design]",
+              "RelativeToolTip": "DVLD Project\\frmShowUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:42:12.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmShowUsers.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmShowUsers.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmShowUsers.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmShowUsers.cs",
+              "RelativeToolTip": "DVLD Project\\frmShowUsers.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:44:25.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmShowPeoples.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmShowPeoples.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmShowPeoples.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmShowPeoples.cs [Design]",
+              "RelativeToolTip": "DVLD Project\\frmShowPeoples.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:42:11.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmShowPeoples.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmShowPeoples.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmShowPeoples.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmShowPeoples.cs",
+              "RelativeToolTip": "DVLD Project\\frmShowPeoples.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAxwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:44:23.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmShowLicenseInfo.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmShowLicenseInfo.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmShowLicenseInfo.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmShowLicenseInfo.cs [Design]",
+              "RelativeToolTip": "DVLD Project\\frmShowLicenseInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T20:13:16.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmShowLicenseInfo.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmShowLicenseInfo.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmShowLicenseInfo.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmShowLicenseInfo.cs",
+              "RelativeToolTip": "DVLD Project\\frmShowLicenseInfo.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAwFkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T20:27:51.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmShowLicenseHistory.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmShowLicenseHistory.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmShowLicenseHistory.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmShowLicenseHistory.cs [Design]",
+              "RelativeToolTip": "DVLD Project\\frmShowLicenseHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T15:47:00.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmShowLicenseHistory.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmShowLicenseHistory.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmShowLicenseHistory.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmShowLicenseHistory.cs",
+              "RelativeToolTip": "DVLD Project\\frmShowLicenseHistory.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAwDoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T15:50:30.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmShowInternationalLicenses.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmShowInternationalLicenses.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmShowInternationalLicenses.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmShowInternationalLicenses.cs [Design]",
+              "RelativeToolTip": "DVLD Project\\frmShowInternationalLicenses.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T16:38:40.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmShowInternationalLicenses.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmShowInternationalLicenses.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmShowInternationalLicenses.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmShowInternationalLicenses.cs",
+              "RelativeToolTip": "DVLD Project\\frmShowInternationalLicenses.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T16:43:51.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmShowInternationalLicenseInfo.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmShowInternationalLicenseInfo.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmShowInternationalLicenseInfo.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmShowInternationalLicenseInfo.cs [Design]",
+              "RelativeToolTip": "DVLD Project\\frmShowInternationalLicenseInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T16:09:23.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmShowInternationalLicenseInfo.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmShowInternationalLicenseInfo.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmShowInternationalLicenseInfo.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmShowInternationalLicenseInfo.cs",
+              "RelativeToolTip": "DVLD Project\\frmShowInternationalLicenseInfo.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAwE4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T16:12:15.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmShowDrivers.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmShowDrivers.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmShowDrivers.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmShowDrivers.cs [Design]",
+              "RelativeToolTip": "DVLD Project\\frmShowDrivers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T14:34:01.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmShowDrivers.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmShowDrivers.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmShowDrivers.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmShowDrivers.cs",
+              "RelativeToolTip": "DVLD Project\\frmShowDrivers.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAxwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T14:34:48.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmShowDetainedLicense.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmShowDetainedLicense.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmShowDetainedLicense.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmShowDetainedLicense.cs [Design]",
+              "RelativeToolTip": "DVLD Project\\frmShowDetainedLicense.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T18:58:00.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmShowDetainedLicense.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmShowDetainedLicense.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmShowDetainedLicense.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmShowDetainedLicense.cs",
+              "RelativeToolTip": "DVLD Project\\frmShowDetainedLicense.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T19:30:32.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmShowDetailsOfAppliction.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmShowDetailsOfAppliction.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmShowDetailsOfAppliction.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmShowDetailsOfAppliction.cs [Design]",
+              "RelativeToolTip": "DVLD Project\\frmShowDetailsOfAppliction.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T21:18:18.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmShowDetailsOfAppliction.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmShowDetailsOfAppliction.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmShowDetailsOfAppliction.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmShowDetailsOfAppliction.cs",
+              "RelativeToolTip": "DVLD Project\\frmShowDetailsOfAppliction.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T21:19:02.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "frmShowApplicationscs.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmShowApplicationscs.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmShowApplicationscs.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmShowApplicationscs.cs [Design]",
+              "RelativeToolTip": "DVLD Project\\frmShowApplicationscs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T16:02:31.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "frmShowApplicationscs.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmShowApplicationscs.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmShowApplicationscs.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmShowApplicationscs.cs",
+              "RelativeToolTip": "DVLD Project\\frmShowApplicationscs.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAxwFIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T16:09:52.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmReplaceForDamgedOrLostLicense.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmReplaceForDamgedOrLostLicense.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmReplaceForDamgedOrLostLicense.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmReplaceForDamgedOrLostLicense.cs [Design]",
+              "RelativeToolTip": "DVLD Project\\frmReplaceForDamgedOrLostLicense.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T13:49:46.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmReplaceForDamgedOrLostLicense.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmReplaceForDamgedOrLostLicense.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmReplaceForDamgedOrLostLicense.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmReplaceForDamgedOrLostLicense.cs",
+              "RelativeToolTip": "DVLD Project\\frmReplaceForDamgedOrLostLicense.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAwGwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T14:12:58.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "frmRenewLicense.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmRenewLicense.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmRenewLicense.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmRenewLicense.cs [Design]",
+              "RelativeToolTip": "DVLD Project\\frmRenewLicense.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T13:45:38.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frmRenewLicense.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmRenewLicense.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmRenewLicense.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmRenewLicense.cs",
+              "RelativeToolTip": "DVLD Project\\frmRenewLicense.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAxwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T13:49:10.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "frmReleaseDetainedLicense.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmReleaseDetainedLicense.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmReleaseDetainedLicense.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmReleaseDetainedLicense.cs [Design]",
+              "RelativeToolTip": "DVLD Project\\frmReleaseDetainedLicense.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T14:35:48.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "frmReleaseDetainedLicense.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmReleaseDetainedLicense.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmReleaseDetainedLicense.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmReleaseDetainedLicense.cs",
+              "RelativeToolTip": "DVLD Project\\frmReleaseDetainedLicense.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T14:41:31.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "frmManageApplicationTypes.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmManageApplicationTypes.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmManageApplicationTypes.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmManageApplicationTypes.cs [Design]",
+              "RelativeToolTip": "DVLD Project\\frmManageApplicationTypes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:42:10.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "frmManageApplicationTypes.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmManageApplicationTypes.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmManageApplicationTypes.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmManageApplicationTypes.cs",
+              "RelativeToolTip": "DVLD Project\\frmManageApplicationTypes.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:44:21.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "frmIssueInternationalLicense.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmIssueInternationalLicense.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmIssueInternationalLicense.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmIssueInternationalLicense.cs [Design]",
+              "RelativeToolTip": "DVLD Project\\frmIssueInternationalLicense.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T14:44:14.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "frmIssueInternationalLicense.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmIssueInternationalLicense.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmIssueInternationalLicense.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmIssueInternationalLicense.cs",
+              "RelativeToolTip": "DVLD Project\\frmIssueInternationalLicense.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAwH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T15:15:19.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "frmCurrentUserInfo.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmCurrentUserInfo.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmCurrentUserInfo.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmCurrentUserInfo.cs [Design]",
+              "RelativeToolTip": "DVLD Project\\frmCurrentUserInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:42:09.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "frmCurrentUserInfo.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmCurrentUserInfo.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmCurrentUserInfo.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmCurrentUserInfo.cs",
+              "RelativeToolTip": "DVLD Project\\frmCurrentUserInfo.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAxwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:44:06.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "frmChangeUserPassword.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmChangeUserPassword.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmChangeUserPassword.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmChangeUserPassword.cs [Design]",
+              "RelativeToolTip": "DVLD Project\\frmChangeUserPassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:42:08.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "frmAddOrEditUser.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmAddOrEditUser.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmAddOrEditUser.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmAddOrEditUser.cs [Design]",
+              "RelativeToolTip": "DVLD Project\\frmAddOrEditUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:42:08.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "frmAddOrEditUser.Designer.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmAddOrEditUser.Designer.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmAddOrEditUser.Designer.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmAddOrEditUser.Designer.cs",
+              "RelativeToolTip": "DVLD Project\\frmAddOrEditUser.Designer.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAIAywEwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T11:30:09.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "frmAppointmentTest.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmAppointmentTest.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmAppointmentTest.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmAppointmentTest.cs [Design]",
+              "RelativeToolTip": "DVLD Project\\frmAppointmentTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T21:28:37.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "frmAppointmentTest.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmAppointmentTest.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmAppointmentTest.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmAppointmentTest.cs",
+              "RelativeToolTip": "DVLD Project\\frmAppointmentTest.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwDQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T21:29:42.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "frmAddLocalLicense.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmAddLocalLicense.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmAddLocalLicense.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmAddLocalLicense.cs [Design]",
+              "RelativeToolTip": "DVLD Project\\frmAddLocalLicense.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:41:30.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "frmAddLocalLicense.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmAddLocalLicense.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmAddLocalLicense.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmAddLocalLicense.cs",
+              "RelativeToolTip": "DVLD Project\\frmAddLocalLicense.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:41:31.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "DealWithLicenses.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\Data Layer\\DealWithLicenses.cs",
+              "RelativeDocumentMoniker": "Data Layer\\DealWithLicenses.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\Data Layer\\DealWithLicenses.cs",
+              "RelativeToolTip": "Data Layer\\DealWithLicenses.cs",
+              "ViewState": "AgIAAOoBAAAAAAAAAAAzwPkBAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T15:05:08.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Licenses.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\BusinLayer\\Licenses.cs",
+              "RelativeDocumentMoniker": "BusinLayer\\Licenses.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\BusinLayer\\Licenses.cs",
+              "RelativeToolTip": "BusinLayer\\Licenses.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAxwJEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T15:08:42.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DealWithDrivers.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\Data Layer\\DealWithDrivers.cs",
+              "RelativeDocumentMoniker": "Data Layer\\DealWithDrivers.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\Data Layer\\DealWithDrivers.cs",
+              "RelativeToolTip": "Data Layer\\DealWithDrivers.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAxwEUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T11:51:02.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Drivers.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\BusinLayer\\Drivers.cs",
+              "RelativeDocumentMoniker": "BusinLayer\\Drivers.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\BusinLayer\\Drivers.cs",
+              "RelativeToolTip": "BusinLayer\\Drivers.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwDEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T11:55:27.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "DealWithApplications.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\Data Layer\\DealWithApplications.cs",
+              "RelativeDocumentMoniker": "Data Layer\\DealWithApplications.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\Data Layer\\DealWithApplications.cs",
+              "RelativeToolTip": "Data Layer\\DealWithApplications.cs",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAQwP0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:43:20.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Applications.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\BusinLayer\\Applications.cs",
+              "RelativeDocumentMoniker": "BusinLayer\\Applications.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\BusinLayer\\Applications.cs",
+              "RelativeToolTip": "BusinLayer\\Applications.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAowGAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:43:17.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "DetainLicense.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\DetainLicense.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\DetainLicense.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\DetainLicense.cs",
+              "RelativeToolTip": "DVLD Project\\DetainLicense.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAxwFsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T18:00:26.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "DetainLicense.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\DetainLicense.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\DetainLicense.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\DetainLicense.cs [Design]",
+              "RelativeToolTip": "DVLD Project\\DetainLicense.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T17:59:50.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ctrPerson.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\ctrPerson.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\ctrPerson.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\ctrPerson.cs [Design]",
+              "RelativeToolTip": "DVLD Project\\ctrPerson.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:42:22.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ctrPerson.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\ctrPerson.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\ctrPerson.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\ctrPerson.cs",
+              "RelativeToolTip": "DVLD Project\\ctrPerson.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAxwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:43:53.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AddandDelete_Person.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\AddandDelete_Person.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\AddandDelete_Person.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\AddandDelete_Person.cs [Design]",
+              "RelativeToolTip": "DVLD Project\\AddandDelete_Person.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:42:20.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ctrDriverLicenseInfo.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\ctrDriverLicenseInfo.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\ctrDriverLicenseInfo.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\ctrDriverLicenseInfo.cs [Design]",
+              "RelativeToolTip": "DVLD Project\\ctrDriverLicenseInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T13:22:04.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ctrDriverLicenseInfo.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\ctrDriverLicenseInfo.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\ctrDriverLicenseInfo.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\ctrDriverLicenseInfo.cs",
+              "RelativeToolTip": "DVLD Project\\ctrDriverLicenseInfo.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T13:24:41.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IssueDrivingLicense.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\IssueDrivingLicense.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\IssueDrivingLicense.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\IssueDrivingLicense.cs [Design]",
+              "RelativeToolTip": "DVLD Project\\IssueDrivingLicense.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T10:36:26.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "IssueDrivingLicense.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\IssueDrivingLicense.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\IssueDrivingLicense.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\IssueDrivingLicense.cs",
+              "RelativeToolTip": "DVLD Project\\IssueDrivingLicense.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAxwFMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T10:37:41.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "People.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\BusinLayer\\People.cs",
+              "RelativeDocumentMoniker": "BusinLayer\\People.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\BusinLayer\\People.cs",
+              "RelativeToolTip": "BusinLayer\\People.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAxwIwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:41:45.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "DealWithPeoples.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\Data Layer\\DealWithPeoples.cs",
+              "RelativeDocumentMoniker": "Data Layer\\DealWithPeoples.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\Data Layer\\DealWithPeoples.cs",
+              "RelativeToolTip": "Data Layer\\DealWithPeoples.cs",
+              "ViewState": "AgIAAJ4BAAAAAAAAAAAAwLUBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:43:21.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "frmRenewLicense.Designer.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmRenewLicense.Designer.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmRenewLicense.Designer.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmRenewLicense.Designer.cs",
+              "RelativeToolTip": "DVLD Project\\frmRenewLicense.Designer.cs",
+              "ViewState": "AgIAABoCAAAAAAAAAAAowCUCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T17:04:13.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "frmAddOrEditUser.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmAddOrEditUser.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmAddOrEditUser.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmAddOrEditUser.cs",
+              "RelativeToolTip": "DVLD Project\\frmAddOrEditUser.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAowF4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:44:02.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "frmShowInternationalLicenses.Designer.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmShowInternationalLicenses.Designer.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmShowInternationalLicenses.Designer.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmShowInternationalLicenses.Designer.cs",
+              "RelativeToolTip": "DVLD Project\\frmShowInternationalLicenses.Designer.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAAwKoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T19:15:44.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\Data Layer\\Settings.cs",
+              "RelativeDocumentMoniker": "Data Layer\\Settings.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\Data Layer\\Settings.cs",
+              "RelativeToolTip": "Data Layer\\Settings.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAGAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:43:23.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ctrLicenseApplicationInfo.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\ctrLicenseApplicationInfo.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\ctrLicenseApplicationInfo.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\ctrLicenseApplicationInfo.cs [Design]",
+              "RelativeToolTip": "DVLD Project\\ctrLicenseApplicationInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T16:21:24.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "AddandDelete_Person.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\AddandDelete_Person.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\AddandDelete_Person.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\AddandDelete_Person.cs",
+              "RelativeToolTip": "DVLD Project\\AddandDelete_Person.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA7wBcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:43:46.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "DealWithUsers.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\Data Layer\\DealWithUsers.cs",
+              "RelativeDocumentMoniker": "Data Layer\\DealWithUsers.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\Data Layer\\DealWithUsers.cs",
+              "RelativeToolTip": "Data Layer\\DealWithUsers.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAwGMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:43:22.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\BusinLayer\\User.cs",
+              "RelativeDocumentMoniker": "BusinLayer\\User.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\BusinLayer\\User.cs",
+              "RelativeToolTip": "BusinLayer\\User.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAABBwE4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:43:19.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ctrLicenseApplicationInfo.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\ctrLicenseApplicationInfo.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\ctrLicenseApplicationInfo.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\ctrLicenseApplicationInfo.cs",
+              "RelativeToolTip": "DVLD Project\\ctrLicenseApplicationInfo.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T17:06:57.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "DealWithCountries.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\Data Layer\\DealWithCountries.cs",
+              "RelativeDocumentMoniker": "Data Layer\\DealWithCountries.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\Data Layer\\DealWithCountries.cs",
+              "RelativeToolTip": "Data Layer\\DealWithCountries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:43:21.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "DealWithTests.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\Data Layer\\DealWithTests.cs",
+              "RelativeDocumentMoniker": "Data Layer\\DealWithTests.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\Data Layer\\DealWithTests.cs",
+              "RelativeToolTip": "Data Layer\\DealWithTests.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAAwNEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T10:38:32.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Tests.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\BusinLayer\\Tests.cs",
+              "RelativeDocumentMoniker": "BusinLayer\\Tests.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\BusinLayer\\Tests.cs",
+              "RelativeToolTip": "BusinLayer\\Tests.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAxwC8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T10:45:27.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "AddOrEditOrDeleteOrRetakeTest.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\AddOrEditOrDeleteOrRetakeTest.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\AddOrEditOrDeleteOrRetakeTest.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\AddOrEditOrDeleteOrRetakeTest.cs [Design]",
+              "RelativeToolTip": "DVLD Project\\AddOrEditOrDeleteOrRetakeTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T21:34:37.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "AddOrEditOrDeleteOrRetakeTest.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\AddOrEditOrDeleteOrRetakeTest.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\AddOrEditOrDeleteOrRetakeTest.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\AddOrEditOrDeleteOrRetakeTest.cs",
+              "RelativeToolTip": "DVLD Project\\AddOrEditOrDeleteOrRetakeTest.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAxwLoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T21:57:46.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "frmAppointmentTest.Designer.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmAppointmentTest.Designer.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmAppointmentTest.Designer.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmAppointmentTest.Designer.cs",
+              "RelativeToolTip": "DVLD Project\\frmAppointmentTest.Designer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwBwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T23:07:16.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "frmAppointmentTest.resx",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmAppointmentTest.resx",
+              "RelativeDocumentMoniker": "DVLD Project\\frmAppointmentTest.resx",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmAppointmentTest.resx",
+              "RelativeToolTip": "DVLD Project\\frmAppointmentTest.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-05-16T22:59:20.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "ctrPersonWithSearchBar.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\ctrPersonWithSearchBar.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\ctrPersonWithSearchBar.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\ctrPersonWithSearchBar.cs [Design]",
+              "RelativeToolTip": "DVLD Project\\ctrPersonWithSearchBar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:42:01.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "ctrUserrCard.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\ctrUserrCard.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\ctrUserrCard.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\ctrUserrCard.cs [Design]",
+              "RelativeToolTip": "DVLD Project\\ctrUserrCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:42:03.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "ctrPersonWithSearchBar.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\ctrPersonWithSearchBar.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\ctrPersonWithSearchBar.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\ctrPersonWithSearchBar.cs",
+              "RelativeToolTip": "DVLD Project\\ctrPersonWithSearchBar.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAQwEkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:43:55.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "frmAddLocalLicense.Designer.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmAddLocalLicense.Designer.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmAddLocalLicense.Designer.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmAddLocalLicense.Designer.cs",
+              "RelativeToolTip": "DVLD Project\\frmAddLocalLicense.Designer.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAQwFAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T11:30:57.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "DealWithTypes.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\Data Layer\\DealWithTypes.cs",
+              "RelativeDocumentMoniker": "Data Layer\\DealWithTypes.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\Data Layer\\DealWithTypes.cs",
+              "RelativeToolTip": "Data Layer\\DealWithTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:43:22.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "frmChangeUserPassword.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\frmChangeUserPassword.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\frmChangeUserPassword.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\frmChangeUserPassword.cs",
+              "RelativeToolTip": "DVLD Project\\frmChangeUserPassword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:44:04.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "ctrUserrCard.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\DVLD Project\\ctrUserrCard.cs",
+              "RelativeDocumentMoniker": "DVLD Project\\ctrUserrCard.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\DVLD Project\\ctrUserrCard.cs",
+              "RelativeToolTip": "DVLD Project\\ctrUserrCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:43:56.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "Countries.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\BusinLayer\\Countries.cs",
+              "RelativeDocumentMoniker": "BusinLayer\\Countries.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\BusinLayer\\Countries.cs",
+              "RelativeToolTip": "BusinLayer\\Countries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:43:11.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "Types.cs",
+              "DocumentMoniker": "D:\\Projects\\DVLD Project\\BusinLayer\\Types.cs",
+              "RelativeDocumentMoniker": "BusinLayer\\Types.cs",
+              "ToolTip": "D:\\Projects\\DVLD Project\\BusinLayer\\Types.cs",
+              "RelativeToolTip": "BusinLayer\\Types.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:43:19.065Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+D:\Projects\DVLD Project\BusinLayer\bin\Debug\BusinLayer.dll
+D:\Projects\DVLD Project\BusinLayer\bin\Debug\BusinLayer.pdb
+D:\Projects\DVLD Project\BusinLayer\bin\Debug\Data Layer.dll
+D:\Projects\DVLD Project\BusinLayer\bin\Debug\Data Layer.pdb
+D:\Projects\DVLD Project\BusinLayer\obj\Debug\BusinLayer.csproj.AssemblyReference.cache
+D:\Projects\DVLD Project\BusinLayer\obj\Debug\BusinLayer.csproj.CoreCompileInputs.cache
+D:\Projects\DVLD Project\BusinLayer\obj\Debug\BusinLayer.csproj.Up2Date
+D:\Projects\DVLD Project\BusinLayer\obj\Debug\BusinLayer.dll
+D:\Projects\DVLD Project\BusinLayer\obj\Debug\BusinLayer.pdb
+D:\DVLD Project\BusinLayer\bin\Debug\BusinLayer.dll
+D:\DVLD Project\BusinLayer\bin\Debug\BusinLayer.pdb
+D:\DVLD Project\BusinLayer\bin\Debug\Data Layer.dll
+D:\DVLD Project\BusinLayer\bin\Debug\Data Layer.pdb
+D:\DVLD Project\BusinLayer\obj\Debug\BusinLayer.csproj.AssemblyReference.cache
+D:\DVLD Project\BusinLayer\obj\Debug\BusinLayer.csproj.CoreCompileInputs.cache
+D:\DVLD Project\BusinLayer\obj\Debug\BusinLayer.csproj.Up2Date
+D:\DVLD Project\BusinLayer\obj\Debug\BusinLayer.dll
+D:\DVLD Project\BusinLayer\obj\Debug\BusinLayer.pdb
